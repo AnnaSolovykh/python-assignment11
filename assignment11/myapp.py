@@ -8,6 +8,7 @@ df = pldata.gapminder()
 countries = df['country'].unique()
 
 app = Dash(__name__)
+server = app.server
 
 app.layout = html.Div([
     dcc.Dropdown(
