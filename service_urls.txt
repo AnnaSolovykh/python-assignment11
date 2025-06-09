@@ -1,1 +1,4 @@
 https://annasol-gapminder-dashboard.onrender.com 
+
+https://github.com/AnnaSolovykh/streamlit-assignment
+https://annasol-tips-app.streamlit.app
